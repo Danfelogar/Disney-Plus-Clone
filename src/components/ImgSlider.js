@@ -15,25 +15,25 @@ let settings = {
 return (
     <Carousel {...settings}>
         <Wrap>
-        <a>
+        <a href ="/home">
             <img src="/images/slider-badging.jpg" alt="1" />
         </a>
         </Wrap>
 
         <Wrap>
-        <a>
+        <a href ="/home">
             <img src="/images/slider-scale.jpg" alt="2" />
         </a>
         </Wrap>
 
         <Wrap>
-        <a>
+        <a href ="/home">
             <img src="/images/slider-badag.jpg" alt="3" />
         </a>
         </Wrap>
 
         <Wrap>
-        <a>
+        <a href ="/home">
             <img src="/images/slider-scales.jpg" alt="4" />
         </a>
         </Wrap>
