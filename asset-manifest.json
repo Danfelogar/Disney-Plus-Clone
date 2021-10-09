@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Disney-Plus-Clone/static/css/main.4ce48ade.chunk.css",
+    "main.js": "/Disney-Plus-Clone/static/js/main.58baf6d7.chunk.js",
+    "main.js.map": "/Disney-Plus-Clone/static/js/main.58baf6d7.chunk.js.map",
+    "runtime-main.js": "/Disney-Plus-Clone/static/js/runtime-main.3b0cbb6e.js",
+    "runtime-main.js.map": "/Disney-Plus-Clone/static/js/runtime-main.3b0cbb6e.js.map",
+    "static/css/2.71891e6d.chunk.css": "/Disney-Plus-Clone/static/css/2.71891e6d.chunk.css",
+    "static/js/2.2a52e2ec.chunk.js": "/Disney-Plus-Clone/static/js/2.2a52e2ec.chunk.js",
+    "static/js/2.2a52e2ec.chunk.js.map": "/Disney-Plus-Clone/static/js/2.2a52e2ec.chunk.js.map",
+    "index.html": "/Disney-Plus-Clone/index.html",
+    "static/css/2.71891e6d.chunk.css.map": "/Disney-Plus-Clone/static/css/2.71891e6d.chunk.css.map",
+    "static/css/main.4ce48ade.chunk.css.map": "/Disney-Plus-Clone/static/css/main.4ce48ade.chunk.css.map",
+    "static/js/2.2a52e2ec.chunk.js.LICENSE.txt": "/Disney-Plus-Clone/static/js/2.2a52e2ec.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Disney-Plus-Clone/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b0cbb6e.js",
+    "static/css/2.71891e6d.chunk.css",
+    "static/js/2.2a52e2ec.chunk.js",
+    "static/css/main.4ce48ade.chunk.css",
+    "static/js/main.58baf6d7.chunk.js"
+  ]
+}
